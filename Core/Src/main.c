@@ -23,6 +23,8 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
+// Test new line
+
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
